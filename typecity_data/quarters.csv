@@ -1,0 +1,5 @@
+quarter_id,name,character,base_pop_density
+NW,Northwest Quarter,Residential,high
+NE,Northeast Quarter,Commercial,medium
+SW,Southwest Quarter,Industrial,low
+SE,Southeast Quarter,Mixed,medium

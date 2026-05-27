@@ -1,0 +1,17 @@
+district_id,quarter_id,position,name
+NW-A,NW,A,Maplewood
+NW-B,NW,B,Riverside
+NW-C,NW,C,Elmhurst
+NW-D,NW,D,Ferndale
+NE-A,NE,A,Goldgate
+NE-B,NE,B,Iron Row
+NE-C,NE,C,Commerce Row
+NE-D,NE,D,The Exchange
+SW-A,SW,A,Millyard
+SW-B,SW,B,Copperton
+SW-C,SW,C,Grayfield
+SW-D,SW,D,Slagtown
+SE-A,SE,A,Harborview
+SE-B,SE,B,Crossroads
+SE-C,SE,C,Midvale
+SE-D,SE,D,Eastbridge

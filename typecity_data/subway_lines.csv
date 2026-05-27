@@ -1,0 +1,3 @@
+line_id,direction,length_miles,num_stops,color_hex
+Orange,N-S,16,9,#FF8C00
+Blue,E-W,16,9,#1E90FF

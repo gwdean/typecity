@@ -1,0 +1,19 @@
+station_id,name,x,y,is_transfer
+OL-1,South Terminus,8,0,False
+OL-2,Southgate,8,2,False
+OL-3,South District,8,4,False
+OL-4,South Inner,8,6,False
+OL-5,Central Station,8,8,True
+OL-6,North Inner,8,10,False
+OL-7,North District,8,12,False
+OL-8,Northgate,8,14,False
+OL-9,North Terminus,8,16,False
+BL-1,West Terminus,0,8,False
+BL-2,Westgate,2,8,False
+BL-3,West District,4,8,False
+BL-4,West Inner,6,8,False
+BL-5,Central Station,8,8,True
+BL-6,East Inner,10,8,False
+BL-7,East District,12,8,False
+BL-8,Eastgate,14,8,False
+BL-9,East Terminus,16,8,False
